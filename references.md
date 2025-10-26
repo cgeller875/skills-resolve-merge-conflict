@@ -1,7 +1,4 @@
-s
-o
 
-g
-o
-o
-d
+# References
+
+* octocat 1 😈
